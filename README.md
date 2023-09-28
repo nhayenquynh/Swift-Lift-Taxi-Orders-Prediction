@@ -18,6 +18,7 @@ The RMSE metric on the test set should not be more than 48.
 - The number of orders is in the num_orders column
 
 # Project Evaluation: 
+
 - Have you followed all the steps of the instructions?
 - How did you prepare the data?
 - What models and hyperparameters have you considered?
@@ -25,3 +26,13 @@ The RMSE metric on the test set should not be more than 48.
 - What are your findings?
 - Have you kept to the project structure?
 - Have you kept the code neat?
+
+# Generated Plots: 
+<img width="1022" alt="image" src="https://github.com/nhayenquynh/Swift-Lift-Taxi-Orders-Prediction/assets/125513684/d60b33c9-3b93-482e-aca0-009a9dcd787d">
+
+# Result:
+<img width="171" alt="image" src="https://github.com/nhayenquynh/Swift-Lift-Taxi-Orders-Prediction/assets/125513684/65ca7205-4601-4359-b620-361ae3f1d195">
+
+Random Forest Regression model yielded the lowest RMSE when performed with train dataset.
+
+
